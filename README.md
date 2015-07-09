@@ -11,5 +11,5 @@ Maven repository.
 ## library-water
 <https://github.com/t-kgd/library-water>
 
-## library-cool(Deprecated)
+## library-cool (Deprecated)
 <https://github.com/t-kgd/library-cool>
